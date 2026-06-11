@@ -11,4 +11,4 @@ ___╱╲  _____ ╱╲______ ____╱╲   ___╱╲
 
 ---
 
-<img width=800 src="https://github-profile-trophy.vercel.app/?username=xero&column=6&no-frame=true&no-bg=true&theme=algolia"/>
+<img width=800 src="https://gh-trophy.cdnsoft.net/?username=xero&column=6&no-frame=true&no-bg=true&theme=algolia"/>
